@@ -25,6 +25,10 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
 ![.NET](https://img.shields.io/badge/.NET-black?style=flat-square&logo=.net)
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
+![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Avalonia](https://img.shields.io/badge/-Avalonia-black?style=flat-square&logo=avalonia)
+
 
 ### My GitHub Stats 📊
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fyleeds&show_icons=true&theme=radical)
