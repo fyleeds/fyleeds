@@ -3,12 +3,10 @@
 ## Welcome to my GitHub profile!
 
 ### About Me 🌱
-- 👨‍💻 I'm currently working on [Your Current Project or Job]
-- 📚 I'm currently learning [What You're Learning]
-- 💬 Ask me about [Topics You're Comfortable Discussing]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact About You]
+- 👨‍💻 I'm currently working on a symfony ecommerce website
+- 📚 I'm currently learning Symfony a Php Framework
+- 💬 Ask me about all about dev
+- 📫 How to reach me: clement.penot@ynov.com
 
 ### Connect with Me 🌐
 - [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-penot-09326b143/)
