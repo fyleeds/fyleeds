@@ -24,5 +24,3 @@
 ### My GitHub Stats 📊
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fyleeds&show_icons=true&theme=radical)
 
-### Featured Repositories 🌟
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=fyleeds&repo=repo-name&theme=radical)](https://github.com/fyleeds/ecommerce)
