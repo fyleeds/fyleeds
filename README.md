@@ -20,6 +20,11 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Symfony](https://img.shields.io/badge/Symfony-black?style=flat-square&logo=symfony)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
+![.NET](https://img.shields.io/badge/.NET-black?style=flat-square&logo=.net)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
 
 ### My GitHub Stats 📊
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fyleeds&show_icons=true&theme=radical)
