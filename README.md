@@ -4,8 +4,8 @@
 
 ### About Me 🌱
 - 👨‍💻 I'm currently working on a symfony ecommerce website
-- 📚 I'm currently learning Symfony a Php Framework
-- 💬 Ask me about all about dev
+- 📚 I'm currently learning UX/UI Design
+- 💬 Ask me about all about web development
 - 📫 How to reach me: clement.penot@ynov.com
 
 ### Connect with Me 🌐
