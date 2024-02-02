@@ -1,17 +1,15 @@
 # Hi there, I'm Clement Penot / fyleeds 👋
 
-## Welcome to my GitHub profile!
-
-### About Me 🌱
+## About Me 🌱
 - 👨‍💻 I'm currently working on a prototype ecommerce website -> www.amiishop.run.place
 - 📚 I'm currently learning UX/UI Design and IOT
 - 💬 Ask me about all about web development
 - 📫 How to reach me: clement.penot@ynov.com
 
-### Connect with Me 🌐
+## Connect with Me 🌐
 - [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-penot-09326b143/)
 
-### Languages and Tools 🛠️
+## Languages and Tools 🛠️
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
@@ -30,6 +28,6 @@
 ![Avalonia](https://img.shields.io/badge/-Avalonia-black?style=flat-square&logo=avalonia)
 
 
-### My GitHub Stats 📊
+## My GitHub Stats 📊
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fyleeds&show_icons=true&theme=radical)
 
