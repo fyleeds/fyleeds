@@ -3,8 +3,8 @@
 ## Welcome to my GitHub profile!
 
 ### About Me 🌱
-- 👨‍💻 I'm currently working on a symfony ecommerce website
-- 📚 I'm currently learning UX/UI Design
+- 👨‍💻 I'm currently working on a symfony ecommerce website -> www.amiishop.run.place
+- 📚 I'm currently learning UX/UI Design and IOT
 - 💬 Ask me about all about web development
 - 📫 How to reach me: clement.penot@ynov.com
 
