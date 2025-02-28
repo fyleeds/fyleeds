@@ -1,10 +1,9 @@
 # Hi there, I'm Clement Penot / fyleeds 👋
 
 ## About Me 🌱
-- 👨‍💻 I'm currently working on a prototype ecommerce website -> www.amiishop.run.place
-- 📚 I'm currently learning UX/UI Design and IOT
+- 📚 I'm currently POO & Tests
 - 💬 Ask me about all about web development
-- 📫 How to reach me: clement.penot@ynov.com
+- 📫 How to reach me: clem.cmp@hotmail.com
 
 ## Connect with Me 🌐
 - [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-penot-09326b143/)
